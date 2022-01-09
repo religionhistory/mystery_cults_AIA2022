@@ -6,9 +6,9 @@ Religious Group (v5),2265,Is monumental religious architecture present:,4745,Rel
 Religious Group (v5),2890,Is supernatural monitoring present:,4954,Religious Group (v6),Is supernatural monitoring present:
 Religious Group (v5),2919,A supreme high god is present:,4828,Religious Group (v6),A supreme high god is present:
 Religious Group (v5),2941,The supreme high god is anthropomorphic:,4829,Religious Group (v6),The supreme high god is anthropomorphic:
+Religious Group (v5),3169,Does the religious group in question provide public food storage:,5188,Religious Group (v6),Does the religious group in question provide public food storage:
 Religious Group (v5),2961,As cenotaphs:,4822,Religious Group (v6),As cenotaphs:
 Religious Group (v5),2854,Human spirits can be seen:,4867,Religious Group (v6),Human spirits can be seen:
-Religious Group (v5),3169,Does the religious group in question provide public food storage:,5188,Religious Group (v6),Does the religious group in question provide public food storage:
 Religious Group (v5),2253,Are they written:,4730,Religious Group (v6),Are they written:
 Religious Group (v5),2971,These supernatural beings can be seen:,4898,Religious Group (v6),These supernatural beings can be seen:
 Religious Group (v5),3209,These mixed human-divine beings can be seen:,4920,Religious Group (v6),These mixed human-divine beings can be seen:
@@ -90,9 +90,9 @@ Religious Text (v1.0),8041,Human spirits can be physically felt,4868,Religious G
 Religious Text (v1.0),8070,Supernatural beings can be physically felt,4899,Religious Group (v6),These supernatural beings can be physically felt:
 Religious Group (v5),2311,Supernatural beings (geomorphic):,4769,Religious Group (v6),Supernatural beings (geomorphic):
 Religious Group (v5),2945,Non-human supernatural beings are present:,4897,Religious Group (v6),Non-human supernatural beings are present:
-Religious Group (v5),2950,Family tomb-crypt:,4824,Religious Group (v6),Family tomb-crypt:
 Religious Group (v5),3123,Are there orthodoxy checks:,5157,Religious Group (v6),Are there orthodoxy checks:
 Religious Group (v5),3174,"Does the religious group in question provide water management (irrigation, flood control):",5190,Religious Group (v6),"Does the religious group in question provide water management (irrigation, flood control):"
+Religious Group (v5),2950,Family tomb-crypt:,4824,Religious Group (v6),Family tomb-crypt:
 Religious Group (v5),2944,The supreme high god is chthonic (of the underworld):,4831,Religious Group (v6),The supreme high god is chthonic (of the underworld):
 Religious Place (v1.1),5823,Supernatural beings (geomorphic),4769,Religious Group (v6),Supernatural beings (geomorphic):
 Religious Place (v1.1),5886,Are previously human spirits present:,4866,Religious Group (v6),Previously human spirits are present:
@@ -110,8 +110,8 @@ Religious Place (v1.2),6548,Are they chthonic (underworld),4831,Religious Group 
 Religious Place (v1.2),6542,Family tomb/crypt:,4824,Religious Group (v6),Family tomb-crypt:
 Religious Group (v5),2263,Are pilgrimages present:,4762,Religious Group (v6),Are pilgrimages present:
 Religious Group (v5),2288,Supernatural beings (anthropomorphic):,4770,Religious Group (v6),Supernatural beings (anthropomorphic):
-Religious Group (v5),2843,"Domestic (individuals interred beneath house, or in areas used for normal domestic activities):",4825,Religious Group (v6),"Domestic (individuals interred beneath house, or in areas used for normal domestic activities):"
 Religious Group (v5),3091,Are there orthopraxy checks:,5158,Religious Group (v6),Are there orthopraxy checks:
+Religious Group (v5),2843,"Domestic (individuals interred beneath house, or in areas used for normal domestic activities):",4825,Religious Group (v6),"Domestic (individuals interred beneath house, or in areas used for normal domestic activities):"
 Religious Group (v5),2958,The supreme high god is fused with the monarch (king=high god):,4832,Religious Group (v6),The supreme high god is fused with the monarch (king=high god):
 Religious Group (v5),2943,Mixed human-divine beings are present:,4919,Religious Group (v6),Mixed human-divine beings are present:
 Religious Place (v1.1),5824,Supernatural beings (anthropomorphic),4770,Religious Group (v6),Supernatural beings (anthropomorphic):
@@ -135,10 +135,11 @@ Religious Place (v1.2),6743,Function for water management:,5190,Religious Group 
 Religious Place (v1.2),6752,Are there religious specialists in charge of interpreting the scriptures:,4740,Religious Group (v6),Are there formal institutions (i.e. institutions that are authorized by the religious community or political leaders) for interpreting the scriptures:
 Religious Text (v1.0),7774,Is the text employed in large scale rituals?,5154,Religious Group (v6),Does membership in this religious group require participation in large-scale rituals:
 Religious Group (v5),2964,Are co-sacrifices present in tomb/burial:,4808,Religious Group (v6),Are co-sacrifices present in tomb/burial:
-Religious Group (v5),2270,Supernatural beings (abstract symbol):,4771,Religious Group (v6),Supernatural beings (abstract symbol):
-Religious Group (v5),3134,Does the religious group in question provide transportation infrastructure:,5192,Religious Group (v6),Does the religious group in question provide transportation infrastructure:
-Religious Group (v5),3328,The monarch is seen as a manifestation or emanation of the high god:,4833,Religious Group (v6),The monarch is seen as a manifestation or emanation of the high god:
 Religious Group (v5),3111,Does participation entail synchronic practices:,5159,Religious Group (v6),Does participation entail synchronic practices:
+Religious Group (v5),3134,Does the religious group in question provide transportation infrastructure:,5192,Religious Group (v6),Does the religious group in question provide transportation infrastructure:
+Religious Group (v5),2270,Supernatural beings (abstract symbol):,4771,Religious Group (v6),Supernatural beings (abstract symbol):
+Religious Group (v5),2335,Are there formal institutions (i.e. institutions that are authorized by the religious community or political leaders) for interpreting the scriptures:,4740,Religious Group (v6),Are there formal institutions (i.e. institutions that are authorized by the religious community or political leaders) for interpreting the scriptures:
+Religious Group (v5),3328,The monarch is seen as a manifestation or emanation of the high god:,4833,Religious Group (v6),The monarch is seen as a manifestation or emanation of the high god:
 Religious Group (v5),2850,Other formal burial type:,4826,Religious Group (v6),Other formal burial type:
 Religious Place (v1.1),5825,Supernatural being (abstract),4771,Religious Group (v6),Supernatural beings (abstract symbol):
 Religious Place (v1.1),5855,Are grave goods present:,4814,Religious Group (v6),Are grave goods present:
@@ -164,9 +165,9 @@ Religious Place (v1.2),6744,Part of the transportation network:,5192,Religious G
 Religious Text (v1.0),7776,Is the text employed in small scale rituals?,5152,Religious Group (v6),"Does membership in this religious group require participation in small-scale rituals (private, household):"
 Religious Text (v1.0),7961,Does the text indicate if co-sacrifices should be present in burials?,4808,Religious Group (v6),Are co-sacrifices present in tomb/burial:
 Religious Group (v5),2929,Are grave goods present:,4814,Religious Group (v6),Are grave goods present:
+Religious Group (v5),3086,Is there use of intoxicants:,5160,Religious Group (v6),Is there use of intoxicants:
 Religious Group (v5),2341,Portrayals of afterlife:,4772,Religious Group (v6),Portrayals of afterlife:
 Religious Group (v5),2978,Supernatural beings care about sex:,4964,Religious Group (v6),Supernatural beings care about sex:
-Religious Group (v5),3086,Is there use of intoxicants:,5160,Religious Group (v6),Is there use of intoxicants:
 Religious Group (v5),2910,The supreme high god is a kin relation to elites:,4834,Religious Group (v6),The supreme high god is a kin relation to elites:
 Religious Place (v1.1),5826,Portrayals of afterlife,4772,Religious Group (v6),Portrayals of afterlife:
 Religious Place (v1.1),5862,Are formal burials present:,4821,Religious Group (v6),Are formal burials present:
