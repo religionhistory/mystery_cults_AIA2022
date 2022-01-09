@@ -148,12 +148,3 @@ plot_tree_edge <- function(tree){
   tree <- ggtree(tree) %<+% edges + geom_text(aes(x = branch, label = edge_length), size = 2, hjust = -.2, vjust=-.2) 
 }
 
-# Extract list of clusters
-extract_clusters <- function(data) {
-  C1.1 = filter(data, Subsubcluster == "C1.1")
-  C1.2.1 = filter(data, Subsubcluster == "C1.2.1")
-  C1.2.2 = filter(data, Subsubcluster == "C1.2.2")
-  C2 = filter(data, Cluster == "C2")
-  cluster_list = list(C1.1 = C1.1$`Entry ID`, C1.2.1 = C1.2.1$`Entry ID`, C1.2.2 = C1.2.2$`Entry ID`, C2 = C2$`Entry ID`)
-}
-
